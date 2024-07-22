@@ -7,9 +7,9 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a UI designer.
+- 🧑‍💻 I'm a UI designer and web designer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @Espre_sso_02](https://twitter.com/Espre_sso_02)
+- 📫 How to reach me: [Twitter - @monhan3127](https://twitter.com/monhan3127)
 <br>
 
 
