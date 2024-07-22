@@ -10,7 +10,7 @@
 - 🧑‍💻 I'm a UI designer and web designer.
 - 🌱 I’m currently learning ai!
 - 📫 How to reach me: [Twitter - @monhan3127](https://twitter.com/monhan3127)
-- 🔭 I’m currently working on website: []()
+- 🔭 I’m currently working on website: [https://github.com/gakusyutai/gakusyutai.github.io.git](https://github.com/gakusyutai/gakusyutai.github.io.git)
 <br>
 
 
